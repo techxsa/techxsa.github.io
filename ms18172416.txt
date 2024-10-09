@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "techxsa.com",
-  "Id": "30fb6474-477e-4254-a472-35190def4179"
-}
